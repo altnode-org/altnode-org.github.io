@@ -1,0 +1,26 @@
+baseURL = 'https://altnode.org/'
+languageCode = 'ja-jp'
+title = 'AltNode.org'
+theme = 'spectral'
+
+[params]
+fancyTitle = 'AltNode.org'
+copyright = 'AltNode.org'
+description = '''
+"別の未来"を探索する<br />
+元42Tokyoメンバーによる創業者グループ
+'''
+
+[params.one]
+enable = true
+title = 'Alt Node?'
+body = '''
+"Alt"はAlternativeの略で、"新しい、別の"という意味を持ちます。<br/>
+"Node"とは、探索アルゴリズムにおいて現在や未来の"状態"を指す言葉です。<br/>
+探索アルゴリズムは、無数の"Node"を予測し、評価して、最善のものを選択します。<br/>
+<br/>
+私達は「新しい、より良い未来を探索する」ための組織です。
+'''
+
+[params.contact]
+email = 'support+lp@altnode.org'
